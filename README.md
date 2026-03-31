@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ganesh K Mesta</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | 3D Web Developer</h3>
 
 <p align="center">
-  <a href="#">🌐 Portfolio</a> •
-  <a href="mailto:your-email@example.com">📧 Email</a> •
-  <a href="#">💼 LinkedIn</a>
+  <a href="https://ganesh-mesta.netlify.app/">🌐 Portfolio</a> •
+  <a href="mailto:ganeshmesta1234@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ganeshmesta56/">💼 LinkedIn</a>
 </p>
 
 ---
