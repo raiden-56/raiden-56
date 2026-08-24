@@ -1,161 +1,123 @@
-<h1 align="center">
-  👋 Hey, I'm Ganesh K Mesta
-</h1>
+<!-- ===================================================== -->
 
-<h3 align="center">
-  🚀 Frontend Developer • 🎨 UI/UX Designer • 🌐 3D Web Developer
-</h3>
+<!--                    HERO SECTION                        -->
 
-<p align="center">
-  <a href="https://ganesh-mesta.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-00C7B7?style=for-the-badge" />
-  </a>
-  <a href="mailto:ganeshmesta1234@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ganeshmesta56/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
-  </a>
-</p>
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,100:243B55&text=GANESH%20K%20MESTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%203D%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+beautiful+digital+experiences+%F0%9F%9A%80;React+%2B+TypeScript+%2B+Three.js+%E2%9A%A1;Turning+ideas+into+interactive+experiences+%F0%9F%8E%A8;Clean+Code+%7C+Modern+UI+%7C+Great+UX+%E2%9C%A8" />
+
+<br/><br/>
+
+<a href="https://ganesh-mesta.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ganeshmesta56/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ganeshmesta1234@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================================================== -->
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!--                    ABOUT SECTION                       -->
 
-```typescript
-const ganesh = {
-  role: "Frontend Developer",
-  experience: "5+ Years",
-  passion: [
-    "Building modern web applications",
-    "Creating beautiful UI/UX",
-    "Interactive animations",
-    "3D Web Experiences"
-  ],
-  currentlyLearning: [
-    "Three.js",
-    "WebGL",
-    "Advanced React",
-    "Performance Optimization"
-  ],
-  philosophy: "Clean UI + Great UX + Performance 🚀"
-};
+<!-- ===================================================== -->
+
+## 👨‍💻 `whoami`
+
+```bash
+$ whoami
+
+ganesh-k-mesta
+
+$ cat about-me.json
 ```
 
-* 🔭 Currently building **modern & scalable web applications**
-* ⚛️ Specialized in **React + TypeScript**
-* 🎨 Passionate about **UI/UX, animations & visual design**
-* 🌐 Exploring **Three.js, WebGL & 3D experiences**
-* ⚡ Focused on **performance, accessibility & clean architecture**
-* 🧩 Love building **reusable components & design systems**
-* 🚀 Always learning and experimenting with new technologies
+```json
+{
+  "name": "Ganesh K Mesta",
+  "role": "Frontend Engineer",
+  "location": "Bangalore, India",
+  "focus": [
+    "Frontend Development",
+    "UI/UX Engineering",
+    "Interactive Web",
+    "3D Web Experiences"
+  ],
+  "primary_stack": [
+    "React",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "currently_exploring": [
+    "Three.js",
+    "React Three Fiber",
+    "WebGL",
+    "Advanced Animations"
+  ],
+  "mindset": "Build it simple. Make it beautiful. Make it fast."
+}
+```
 
-<br clear="right"/>
+<br/>
 
----
+> **I don't just build interfaces — I build experiences.**
 
-## ⚡ Tech Stack
+I'm a frontend developer passionate about creating **modern, responsive and interactive web applications**.
 
-### 💻 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,html,css,sass,tailwind" />
-</p>
-
-### 🎨 UI / Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=materialui,figma,ps,ai" />
-</p>
-
-### 🌐 3D & Animation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
-**Three.js • React Three Fiber • WebGL • Framer Motion • CSS Animations**
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,nodejs,npm,vscode" />
-</p>
+I enjoy working at the intersection of **engineering + design**, turning complex ideas into interfaces that are intuitive, performant and visually engaging.
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================================================== -->
+
+<!--                 CURRENTLY BUILDING                    -->
+
+<!-- ===================================================== -->
+
+## ⚡ Currently Building
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🌐 Personal Portfolio
+### ⚛️ React
 
-A modern developer portfolio featuring:
-
-* ✨ Interactive animations
-* 🎨 Modern UI/UX
-* 🌌 3D web experiences
-* 📱 Fully responsive design
-* ⚡ Optimized performance
-
-<a href="https://ganesh-mesta.netlify.app/">
-  🔗 View Portfolio
-</a>
+Building scalable interfaces with modern React architecture.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 📄 Resume Builder
+### 🌌 Three.js
 
-A modern resume builder that allows users to:
-
-* 📝 Create resumes
-* 👀 Live preview
-* 🎨 Choose templates
-* 📄 Export to PDF
-* 📱 Responsive UI
+Exploring immersive 3D experiences for the web.
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+### 🎨 UI/UX
 
-<td width="50%">
-
-### 🧩 Reusable Component Library
-
-Reusable and scalable UI components built with:
-
-* React
-* TypeScript
-* Material UI
-* Accessibility
-* Reusable architecture
-
-</td>
-
-<td width="50%">
-
-### 🎨 3D Web Experiments
-
-Exploring immersive web experiences using:
-
-* Three.js
-* React Three Fiber
-* WebGL
-* Interactive animations
-* 3D environments
+Creating interfaces where design meets functionality.
 
 </td>
 
@@ -164,111 +126,261 @@ Exploring immersive web experiences using:
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ===================================================== -->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
+<!--                    TECH STACK                         -->
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
- height="180"
-/>
+<!-- ===================================================== -->
 
+## 🧰 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nextjs,html,css,sass,tailwind"/>
 </p>
 
----
+### UI / Design
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=materialui,figma,photoshop,illustrator"/>
 </p>
 
----
+### 3D / Creative Development
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=threejs"/>
 </p>
-
----
-
-## 📈 My GitHub Journey
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>
-
----
-
-## 💡 What I Love Building
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   ⚛️  Scalable React Applications           │
-│                                             │
-│   🎨  Beautiful UI/UX Experiences           │
-│                                             │
-│   🌐  Interactive 3D Websites               │
-│                                             │
-│   ✨  Smooth Animations                     │
-│                                             │
-│   🧩  Reusable Component Systems            │
-│                                             │
-│   ⚡  High Performance Interfaces            │
-│                                             │
-└─────────────────────────────────────────────┘
+Three.js
+React Three Fiber
+WebGL
+Framer Motion
+CSS Animations
+Interactive UI
+```
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,azure,nodejs,npm,vscode"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                    PROJECTS                           -->
+
+<!-- ===================================================== -->
+
+## 🚀 Selected Work
+
+### 🌐 Personal Portfolio
+
+> An interactive portfolio designed to showcase my work, skills and experiments.
+
+**Highlights**
+
+`React` `TypeScript` `Three.js` `Animations` `Responsive UI`
+
+🔗 **[Explore Portfolio](https://ganesh-mesta.netlify.app/)**
+
+---
+
+### 📄 Resume Builder
+
+> A browser-based resume creation platform with real-time preview and PDF export.
+
+**Highlights**
+
+`React` `TypeScript` `Form Architecture` `PDF Export` `Responsive Design`
+
+---
+
+### 🧩 Reusable Component System
+
+> A collection of reusable and scalable UI components designed to improve consistency and development speed.
+
+**Highlights**
+
+`React` `TypeScript` `MUI` `Reusable Components` `Accessibility`
+
+---
+
+### 🌌 3D Web Experiments
+
+> Experimental projects exploring how 3D and motion can transform traditional web experiences.
+
+**Exploring**
+
+`Three.js` `React Three Fiber` `WebGL` `Shaders` `3D Interaction`
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  GITHUB STATS                         -->
+
+<!-- ===================================================== -->
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  GITHUB TROPHIES                      -->
+
+<!-- ===================================================== -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                CONTRIBUTION GRAPH                     -->
+
+<!-- ===================================================== -->
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                   PHILOSOPHY                          -->
+
+<!-- ===================================================== -->
+
+## 🧠 Developer Philosophy
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│       "Good design is invisible.                   │
+│        Great design is unforgettable."             │
+│                                                     │
+│                 — Ganesh K Mesta                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### My approach
+
+```text
+01 → Understand the problem
+02 → Design the experience
+03 → Build the architecture
+04 → Write clean & scalable code
+05 → Optimize performance
+06 → Polish every interaction
 ```
 
 ---
 
-## 🎯 2026 Goals
+<!-- ===================================================== -->
 
-* 🚀 Build more advanced **3D web experiences**
-* ⚛️ Master advanced **React architecture**
-* 🌐 Explore **WebGL & Three.js**
-* 🧩 Build more **open-source components**
-* 📚 Share knowledge with the developer community
-* 🌟 Create projects that push the limits of the modern web
+<!--                    2026 GOALS                         -->
+
+<!-- ===================================================== -->
+
+## 🎯 2026 Roadmap
+
+```text
+████████████████████████████████████████  React
+██████████████████████████████████████░░  TypeScript
+██████████████████████████████████░░░░░░  UI/UX
+████████████████████████████░░░░░░░░░░░░  Three.js
+██████████████████████░░░░░░░░░░░░░░░░░░  WebGL
+██████████████████░░░░░░░░░░░░░░░░░░░░░  Open Source
+```
+
+**Goals**
+
+* 🚀 Build advanced interactive web experiences
+* 🌌 Go deeper into Three.js & WebGL
+* 🧩 Create reusable open-source components
+* ⚡ Improve frontend performance
+* 🎨 Push the boundaries of web UI
+* 🌍 Contribute more to the developer community
 
 ---
 
-## 🤝 Let's Connect
+<!-- ===================================================== -->
 
-<p align="center">
+<!--                    LET'S CONNECT                      -->
+
+<!-- ===================================================== -->
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+<p>
+Have an idea?
+<br/>
+Building something interesting?
+<br/>
+Need a frontend developer?
+</p>
+
+<br/>
 
 <a href="https://ganesh-mesta.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-58A6FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ganeshmesta56/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:ganeshmesta1234@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-<h3 align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+### ⭐ Build. Create. Experiment. Repeat. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:243B55,100:141E30&section=footer"/>
+
+</div>
