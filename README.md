@@ -1,386 +1,78 @@
-<!-- ===================================================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner/dark.svg">
+  <img alt="Ganesh K Mesta — Creative Frontend Engineer. Animated terminal banner with a dithered portrait and system info." src="./assets/banner/light.svg" width="100%">
+</picture>
 
-<!--                    HERO SECTION                        -->
+<br>
 
-<!-- ===================================================== -->
+### Hi, I'm Ganesh 👋
 
-<div align="center">
+Creative Frontend Engineer from Bangalore with **4+ years** of building responsive, interactive web apps. React and TypeScript are my daily tools; Three.js and WebGL are where I experiment. I work where engineering meets design: interfaces that are fast, accessible and pleasant to use.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,100:243B55&text=GANESH%20K%20MESTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%203D%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+- 🔭 Currently building AI-assisted tools, 3D web experiences and full-stack products
+- 🌌 Going deeper into **Three.js, React Three Fiber and WebGL**
+- 🤝 Open to collaborating on interesting frontend and creative-coding projects
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+beautiful+digital+experiences+%F0%9F%9A%80;React+%2B+TypeScript+%2B+Three.js+%E2%9A%A1;Turning+ideas+into+interactive+experiences+%F0%9F%8E%A8;Clean+Code+%7C+Modern+UI+%7C+Great+UX+%E2%9C%A8" />
+## 🚀 Featured Projects
 
-<br/><br/>
-
-<a href="https://ganesh-mesta.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ganeshmesta56/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ganeshmesta1234@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-
-<!--                    ABOUT SECTION                       -->
-
-<!-- ===================================================== -->
-
-## 👨‍💻 `whoami`
-
-```bash
-$ whoami
-
-ganesh-k-mesta
-
-$ cat about-me.json
-```
-
-```json
-{
-  "name": "Ganesh K Mesta",
-  "role": "Frontend Engineer",
-  "location": "Bangalore, India",
-  "focus": [
-    "Frontend Development",
-    "UI/UX Engineering",
-    "Interactive Web",
-    "3D Web Experiences"
-  ],
-  "primary_stack": [
-    "React",
-    "TypeScript",
-    "JavaScript"
-  ],
-  "currently_exploring": [
-    "Three.js",
-    "React Three Fiber",
-    "WebGL",
-    "Advanced Animations"
-  ],
-  "mindset": "Build it simple. Make it beautiful. Make it fast."
-}
-```
-
-<br/>
-
-> **I don't just build interfaces — I build experiences.**
-
-I'm a frontend developer passionate about creating **modern, responsive and interactive web applications**.
-
-I enjoy working at the intersection of **engineering + design**, turning complex ideas into interfaces that are intuitive, performant and visually engaging.
-
----
-
-<!-- ===================================================== -->
-
-<!--                 CURRENTLY BUILDING                    -->
-
-<!-- ===================================================== -->
-
-## ⚡ Currently Building
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ⚛️ React
-
-Building scalable interfaces with modern React architecture.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌌 Three.js
-
-Exploring immersive 3D experiences for the web.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎨 UI/UX
-
-Creating interfaces where design meets functionality.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ===================================================== -->
-
-<!--                    TECH STACK                         -->
-
-<!-- ===================================================== -->
-
-## 🧰 Tech Arsenal
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nextjs,html,css,sass,tailwind"/>
+<p align="center">
+  <a href="https://github.com/raiden-56/flowpilot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/flowpilot-dark.svg"><img alt="FlowPilot AI" src="./assets/projects/flowpilot-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/Interior-design"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Interior-design-dark.svg"><img alt="Interior Studio" src="./assets/projects/Interior-design-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/Tripora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Tripora-dark.svg"><img alt="Travel Diaries" src="./assets/projects/Tripora-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/Filora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Filora-dark.svg"><img alt="PDFly" src="./assets/projects/Filora-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/towpilot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/towpilot-dark.svg"><img alt="TowPilot" src="./assets/projects/towpilot-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/Layrly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Layrly-dark.svg"><img alt="Template Studio" src="./assets/projects/Layrly-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/ai-interview-schedule"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ai-interview-schedule-dark.svg"><img alt="InterviewAI" src="./assets/projects/ai-interview-schedule-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/raiden-56/Camora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Camora-dark.svg"><img alt="Aperture Lab" src="./assets/projects/Camora-light.svg" width="49%"></picture></a>
 </p>
 
-### UI / Design
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=materialui,figma,photoshop,illustrator"/>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,html,css,tailwind,materialui,redux,vite,nodejs,express,fastapi,prisma,postgres,redis,docker,vercel,netlify,azure,git,figma,vscode&perline=12">
 </p>
 
-### 3D / Creative Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=threejs"/>
-</p>
-
-```text
-Three.js
-React Three Fiber
-WebGL
-Framer Motion
-CSS Animations
-Interactive UI
-```
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,azure,nodejs,npm,vscode"/>
-</p>
-
----
-
-<!-- ===================================================== -->
-
-<!--                    PROJECTS                           -->
-
-<!-- ===================================================== -->
-
-## 🚀 Selected Work
-
-### 🌐 Personal Portfolio
-
-> An interactive portfolio designed to showcase my work, skills and experiments.
-
-**Highlights**
-
-`React` `TypeScript` `Three.js` `Animations` `Responsive UI`
-
-🔗 **[Explore Portfolio](https://ganesh-mesta.netlify.app/)**
-
----
-
-### 📄 Resume Builder
-
-> A browser-based resume creation platform with real-time preview and PDF export.
-
-**Highlights**
-
-`React` `TypeScript` `Form Architecture` `PDF Export` `Responsive Design`
-
----
-
-### 🧩 Reusable Component System
-
-> A collection of reusable and scalable UI components designed to improve consistency and development speed.
-
-**Highlights**
-
-`React` `TypeScript` `MUI` `Reusable Components` `Accessibility`
-
----
-
-### 🌌 3D Web Experiments
-
-> Experimental projects exploring how 3D and motion can transform traditional web experiences.
-
-**Exploring**
-
-`Three.js` `React Three Fiber` `WebGL` `Shaders` `3D Interaction`
-
----
-
-<!-- ===================================================== -->
-
-<!--                  GITHUB STATS                         -->
-
-<!-- ===================================================== -->
+<br>
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raiden-56&background=0A101F&border=1E293B&stroke=1E293B&ring=A78BFA&fire=A78BFA&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=64748B&border_radius=12">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=raiden-56&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=7C3AED&fire=7C3AED&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748B&border_radius=12" width="100%">
+</picture>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-
-<!--                  GITHUB TROPHIES                      -->
-
-<!-- ===================================================== -->
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-
-<!--                CONTRIBUTION GRAPH                     -->
-
-<!-- ===================================================== -->
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-
-<!--                   PHILOSOPHY                          -->
-
-<!-- ===================================================== -->
-
-## 🧠 Developer Philosophy
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│       "Good design is invisible.                   │
-│        Great design is unforgettable."             │
-│                                                     │
-│                 — Ganesh K Mesta                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### My approach
-
-```text
-01 → Understand the problem
-02 → Design the experience
-03 → Build the architecture
-04 → Write clean & scalable code
-05 → Optimize performance
-06 → Polish every interaction
-```
-
----
-
-<!-- ===================================================== -->
-
-<!--                    2026 GOALS                         -->
-
-<!-- ===================================================== -->
-
-## 🎯 2026 Roadmap
-
-```text
-████████████████████████████████████████  React
-██████████████████████████████████████░░  TypeScript
-██████████████████████████████████░░░░░░  UI/UX
-████████████████████████████░░░░░░░░░░░░  Three.js
-██████████████████████░░░░░░░░░░░░░░░░░░  WebGL
-██████████████████░░░░░░░░░░░░░░░░░░░░░  Open Source
-```
-
-**Goals**
-
-* 🚀 Build advanced interactive web experiences
-* 🌌 Go deeper into Three.js & WebGL
-* 🧩 Create reusable open-source components
-* ⚡ Improve frontend performance
-* 🎨 Push the boundaries of web UI
-* 🌍 Contribute more to the developer community
-
----
-
-<!-- ===================================================== -->
-
-<!--                    LET'S CONNECT                      -->
-
-<!-- ===================================================== -->
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
+<!-- STATS: un-comment once your self-hosted github-readme-stats is live on Vercel,
+     and replace STATS_HOST with your instance (e.g. github-readme-stats-raiden.vercel.app).
 <p>
-Have an idea?
-<br/>
-Building something interesting?
-<br/>
-Need a frontend developer?
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://STATS_HOST/api?username=raiden-56&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&border_color=1E293B&border_radius=12">
+    <img alt="GitHub stats" src="https://STATS_HOST/api?username=raiden-56&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0891B2&text_color=334155&icon_color=7C3AED&border_color=E2E8F0&border_radius=12" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://STATS_HOST/api/top-langs/?username=raiden-56&layout=compact&langs_count=8&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&border_color=1E293B&border_radius=12">
+    <img alt="Top languages" src="https://STATS_HOST/api/top-langs/?username=raiden-56&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=0891B2&text_color=334155&border_color=E2E8F0&border_radius=12" width="49%">
+  </picture>
+</p>
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiden-56/raiden-56/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/raiden-56/raiden-56/output/github-snake.svg" width="100%">
+</picture>
+
+<br>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganeshmesta56/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="mailto:ganeshmesta1234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>&nbsp;&nbsp;
+  <a href="https://ganesh-mesta.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"></a>&nbsp;&nbsp;
+  <a href="https://github.com/raiden-56"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=raiden-56&label=Profile%20views&color=0A101F&style=for-the-badge"></a>
 </p>
 
-<br/>
-
-<a href="https://ganesh-mesta.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-58A6FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ganeshmesta56/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="mailto:ganeshmesta1234@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⭐ Build. Create. Experiment. Repeat. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:243B55,100:141E30&section=footer"/>
-
-</div>
+<p align="center"><sub>Build · Create · Experiment · Repeat</sub></p>
