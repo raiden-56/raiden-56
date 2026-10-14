@@ -18,14 +18,17 @@ Creative Frontend Engineer from Bangalore with **4+ years** of building responsi
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/raiden-56/flowpilot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/flowpilot-dark.svg"><img alt="FlowPilot AI" src="./assets/projects/flowpilot-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/raiden-56/Interior-design"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Interior-design-dark.svg"><img alt="Interior Studio" src="./assets/projects/Interior-design-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/raiden-56/Tripora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Tripora-dark.svg"><img alt="Travel Diaries" src="./assets/projects/Tripora-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/raiden-56/Filora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Filora-dark.svg"><img alt="PDFly" src="./assets/projects/Filora-light.svg" width="49%"></picture></a>
+  <a href="https://flipora.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/flipbook-dark.svg"><img alt="Flipora" src="./assets/projects/flipbook-light.svg" width="49%"></picture></a>
+  <a href="https://mamta-stay.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hampi-stay-dark.svg"><img alt="Hampi Homestay" src="./assets/projects/hampi-stay-light.svg" width="49%"></picture></a>
+  <a href="https://organization-tree.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Organization-chart-dark.svg"><img alt="Organization Tree" src="./assets/projects/Organization-chart-light.svg" width="49%"></picture></a>
+  <a href="https://floowpilot.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/flowpilot-dark.svg"><img alt="FlowPilot AI" src="./assets/projects/flowpilot-light.svg" width="49%"></picture></a>
+  <a href="https://dream-interior-design.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Interior-design-dark.svg"><img alt="Interior Studio" src="./assets/projects/Interior-design-light.svg" width="49%"></picture></a>
+  <a href="https://tripore.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Tripora-dark.svg"><img alt="Travel Diaries" src="./assets/projects/Tripora-light.svg" width="49%"></picture></a>
+  <a href="https://filoraa.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Filora-dark.svg"><img alt="PDFly" src="./assets/projects/Filora-light.svg" width="49%"></picture></a>
   <a href="https://github.com/raiden-56/towpilot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/towpilot-dark.svg"><img alt="TowPilot" src="./assets/projects/towpilot-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/raiden-56/Layrly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Layrly-dark.svg"><img alt="Template Studio" src="./assets/projects/Layrly-light.svg" width="49%"></picture></a>
+  <a href="https://layora.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Layrly-dark.svg"><img alt="Template Studio" src="./assets/projects/Layrly-light.svg" width="49%"></picture></a>
   <a href="https://github.com/raiden-56/ai-interview-schedule"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ai-interview-schedule-dark.svg"><img alt="InterviewAI" src="./assets/projects/ai-interview-schedule-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/raiden-56/Camora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Camora-dark.svg"><img alt="Aperture Lab" src="./assets/projects/Camora-light.svg" width="49%"></picture></a>
+  <a href="https://camoora.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Camora-dark.svg"><img alt="Aperture Lab" src="./assets/projects/Camora-light.svg" width="49%"></picture></a>
 </p>
 
 <br>
