@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 767px) and (prefers-color-scheme: dark), (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/banner/dark-static.svg">
+  <source media="(max-width: 767px), (prefers-reduced-motion: reduce)" srcset="./assets/banner/light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner/dark.svg">
   <img alt="Ganesh K Mesta — Creative Frontend Engineer. Animated terminal banner with a dithered portrait and system info." src="./assets/banner/light.svg" width="100%">
 </picture>
