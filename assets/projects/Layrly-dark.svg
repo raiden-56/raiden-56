@@ -8,6 +8,8 @@
 <text x="429.0" y="30" font-size="10" fill="#10B981" font-weight="700" text-anchor="middle" textLength="36.0" lengthAdjust="spacingAndGlyphs">EDITOR</text>
 <text x="24" y="72" font-size="20" fill="#F1F5F9" font-weight="700" textLength="180.0" lengthAdjust="spacingAndGlyphs">Template Studio</text>
 <text x="214" y="72" font-size="16" fill="#22D3EE" textLength="9.6" lengthAdjust="spacingAndGlyphs">↗</text>
+<circle cx="338" cy="68" r="3.5" fill="#10B981"/>
+<text x="348" y="72" font-size="10" fill="#64748B" textLength="108.0" lengthAdjust="spacingAndGlyphs">layora.netlify.app</text>
 <text x="24" y="100" font-size="12.5" fill="#94A3B8" textLength="420.0" lengthAdjust="spacingAndGlyphs">Template builder for non-coders: a three-panel drag-and-</text>
 <text x="24" y="120" font-size="12.5" fill="#94A3B8" textLength="390.0" lengthAdjust="spacingAndGlyphs">drop editor with nesting, undo/redo and a brand kit,</text>
 <text x="24" y="140" font-size="12.5" fill="#94A3B8" textLength="232.5" lengthAdjust="spacingAndGlyphs">plus a rich-text document mode.</text>

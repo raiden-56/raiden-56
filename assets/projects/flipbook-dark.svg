@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" viewBox="0 0 480 212" font-family="'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,'Liberation Mono',monospace">
+<title>Flipora · raiden-56/flipbook</title>
+<rect x=".5" y=".5" width="479" height="211" rx="12" fill="#0A101F" stroke="#1E293B"/>
+<rect x="1" y="1" width="3" height="210" rx="1.5" fill="#A78BFA"/>
+<circle cx="28" cy="26" r="4" fill="#FF5F57"/><circle cx="42" cy="26" r="4" fill="#FEBC2E"/><circle cx="56" cy="26" r="4" fill="#28C840"/>
+<text x="72" y="30" font-size="11" fill="#64748B" textLength="132.0" lengthAdjust="spacingAndGlyphs">~/raiden-56/flipbook</text>
+<rect x="360" y="15" width="96" height="22" rx="11" fill="none" stroke="#10B981" stroke-opacity=".6"/>
+<text x="408.0" y="30" font-size="10" fill="#10B981" font-weight="700" text-anchor="middle" textLength="78.0" lengthAdjust="spacingAndGlyphs">CREATIVE TOOL</text>
+<text x="24" y="72" font-size="20" fill="#F1F5F9" font-weight="700" textLength="84.0" lengthAdjust="spacingAndGlyphs">Flipora</text>
+<text x="118" y="72" font-size="16" fill="#22D3EE" textLength="9.6" lengthAdjust="spacingAndGlyphs">↗</text>
+<circle cx="332" cy="68" r="3.5" fill="#10B981"/>
+<text x="342" y="72" font-size="10" fill="#64748B" textLength="114.0" lengthAdjust="spacingAndGlyphs">flipora.netlify.app</text>
+<text x="24" y="100" font-size="12.5" fill="#94A3B8" textLength="412.5" lengthAdjust="spacingAndGlyphs">Turn photos or a PDF into a page-flipping book: arrange</text>
+<text x="24" y="120" font-size="12.5" fill="#94A3B8" textLength="382.5" lengthAdjust="spacingAndGlyphs">pages, add covers, text and templates, then export.</text>
+<text x="24" y="140" font-size="12.5" fill="#94A3B8" textLength="240.0" lengthAdjust="spacingAndGlyphs">Everything stays in the browser.</text>
+<rect x="24" y="168" width="51.0" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="33" y="184" font-size="11" fill="#22D3EE" textLength="33.0" lengthAdjust="spacingAndGlyphs">React</text>
+<rect x="83.0" y="168" width="84.0" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="92.0" y="184" font-size="11" fill="#22D3EE" textLength="66.0" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect x="175.0" y="168" width="37.8" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="184.0" y="184" font-size="11" fill="#22D3EE" textLength="19.8" lengthAdjust="spacingAndGlyphs">MUI</text>
+<rect x="220.8" y="168" width="57.6" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="229.8" y="184" font-size="11" fill="#22D3EE" textLength="39.6" lengthAdjust="spacingAndGlyphs">PDF.js</text>
+<rect x="286.4" y="168" width="64.2" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="295.4" y="184" font-size="11" fill="#22D3EE" textLength="46.2" lengthAdjust="spacingAndGlyphs">dnd-kit</text>
+</svg>
