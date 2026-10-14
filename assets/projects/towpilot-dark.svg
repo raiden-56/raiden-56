@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" viewBox="0 0 480 212" font-family="'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,'Liberation Mono',monospace">
+<title>TowPilot · raiden-56/towpilot</title>
+<rect x=".5" y=".5" width="479" height="211" rx="12" fill="#0A101F" stroke="#1E293B"/>
+<rect x="1" y="1" width="3" height="210" rx="1.5" fill="#A78BFA"/>
+<circle cx="28" cy="26" r="4" fill="#FF5F57"/><circle cx="42" cy="26" r="4" fill="#FEBC2E"/><circle cx="56" cy="26" r="4" fill="#28C840"/>
+<text x="72" y="30" font-size="11" fill="#64748B" textLength="132.0" lengthAdjust="spacingAndGlyphs">~/raiden-56/towpilot</text>
+<rect x="390" y="15" width="66" height="22" rx="11" fill="none" stroke="#10B981" stroke-opacity=".6"/>
+<text x="423.0" y="30" font-size="10" fill="#10B981" font-weight="700" text-anchor="middle" textLength="48.0" lengthAdjust="spacingAndGlyphs">REALTIME</text>
+<text x="24" y="72" font-size="20" fill="#F1F5F9" font-weight="700" textLength="96.0" lengthAdjust="spacingAndGlyphs">TowPilot</text>
+<text x="130" y="72" font-size="16" fill="#22D3EE" textLength="9.6" lengthAdjust="spacingAndGlyphs">↗</text>
+<text x="24" y="100" font-size="12.5" fill="#94A3B8" textLength="375.0" lengthAdjust="spacingAndGlyphs">Towing and roadside-assistance platform connecting</text>
+<text x="24" y="120" font-size="12.5" fill="#94A3B8" textLength="367.5" lengthAdjust="spacingAndGlyphs">drivers with verified recovery crews, plus a full</text>
+<text x="24" y="140" font-size="12.5" fill="#94A3B8" textLength="262.5" lengthAdjust="spacingAndGlyphs">operations and finance back office.</text>
+<rect x="24" y="168" width="51.0" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="33" y="184" font-size="11" fill="#22D3EE" textLength="33.0" lengthAdjust="spacingAndGlyphs">React</text>
+<rect x="83.0" y="168" width="64.2" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="92.0" y="184" font-size="11" fill="#22D3EE" textLength="46.2" lengthAdjust="spacingAndGlyphs">Express</text>
+<rect x="155.2" y="168" width="57.6" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="164.2" y="184" font-size="11" fill="#22D3EE" textLength="39.6" lengthAdjust="spacingAndGlyphs">Prisma</text>
+<rect x="220.79999999999998" y="168" width="84.0" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="229.79999999999998" y="184" font-size="11" fill="#22D3EE" textLength="66.0" lengthAdjust="spacingAndGlyphs">PostgreSQL</text>
+<rect x="312.79999999999995" y="168" width="77.4" height="24" rx="6" fill="#111A2E" stroke="#24324D"/>
+<text x="321.79999999999995" y="184" font-size="11" fill="#22D3EE" textLength="59.4" lengthAdjust="spacingAndGlyphs">Socket.IO</text>
+</svg>
